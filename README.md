@@ -28,6 +28,7 @@ $ neofetch --user embdevv
   "currently_learning": ["Advanced Computer Graphics", "Game Engine Architecture", "Computer Network", "Unreal Engine 5"]
 }
 ```
-```markdown
-![Terminal GitHub Stats](https://github-readme-stats.vercel.app/api?username=embdevv&theme=terminal&show_icons=true)
+
+![GitHub Stats](https://ghstats.dev/api/card?username=YOUR_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erica-mauriz-barundia-a950261b3/)
+
