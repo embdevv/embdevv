@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erica-mauriz-barundia-a950261b3/)
 
 ```bash
-Launching melonYX engine!
+...Launching melonYX engine..
 
 $ whoami
 Erica Barundia
