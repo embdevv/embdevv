@@ -62,14 +62,6 @@ Focus        : Gameplay Programming & Open Source
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=embdevv&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
