@@ -17,8 +17,8 @@ $ neofetch --user embdevv
        .---.         OS: Linux (NixOS, Arch) / Windows 11
       /     \        KERNEL: GameDev-Engine-2026
       \.@-@./        UPTIME: 4 Years in University
-      /`\_/`\        LANGUAGES: C++, C#, GDScript, Bash
-     //  _  \\       SHELL: bash 5.1
+      /`\_/`\        LANGUAGES: C++, C#, GDScript, Lua, Python, Bash
+     //  _  \\       GAME ENGINES: Unity, Unreal, Godot, PICO-8, Roblox
     | \     / |      IDE: VS Code / VS Community
    / \ \___/ / \     PROJECTS: 48 Repositories
   /   \_____/   \
