@@ -3,14 +3,11 @@
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=embdevv&theme=tokyonight&show_ring=false&custom_title=my+awesome+stats)
 ![Top Languages](https://ghstats.dev/api/langs?username=embdevv&theme=tokyonight&hide_border=true)
 ![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=embdevv&theme=tokyonight&days=30&width=320&height=80)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erica-mauriz-barundia-a950261b3/)
-
 ```bash
-...Launching melonYX engine..
 
 $ whoami
 Erica Barundia
-Student & Game Developer
+Game Dev University Student
 Philippines (UTC +08:00)
 
 $ neofetch --user embdevv
@@ -31,3 +28,7 @@ caramel... or cold brew.. would be nice
 or perhaps ko-fi @ https://ko-fi.com/embdev 
 if you enjoy and find my projects useful :) 
 ```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erica-mauriz-barundia-a950261b3/)
+
+
