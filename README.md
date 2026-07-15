@@ -85,14 +85,14 @@ Focus        : Gameplay Programming & Open Source
 ```bash
 $ grep coffee
 
-if i'm not drinking coffee,
-please give me coffee ☕
+coffee: required dependency
+status: missing
 
-caramel latte...
-or cold brew...
+please install:
+- caramel latte
+- cold brew
 
-If you enjoy my projects,
-consider supporting me:
-
+if my projects made your day a little better,
+you can fuel the next one:
 https://ko-fi.com/embdev
 ```
