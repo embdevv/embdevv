@@ -23,4 +23,8 @@ $ neofetch --user embdevv
    / \ \___/ / \     PROJECTS: 48 Repositories
   /   \_____/   \
   |             |
+
+  if im not drinking coffee, please give me coffee... caramel... or cold brew.. would be nice
+
+  or ko-fi? https://ko-fi.com/embdev
 ```
