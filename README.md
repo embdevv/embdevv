@@ -24,7 +24,10 @@ $ neofetch --user embdevv
   /   \_____/   \
   |             |
 
-  if im not drinking coffee, please give me coffee... caramel... or cold brew.. would be nice
+$ grep coffee
+if im not drinking coffee, please give me coffee... 
+caramel... or cold brew.. would be nice
 
-  or ko-fi? https://ko-fi.com/embdev
+or perhaps ko-fi @ https://ko-fi.com/embdev 
+if you enjoy and find my projects useful :) 
 ```
