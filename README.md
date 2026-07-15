@@ -30,7 +30,7 @@ Focus        : Gameplay Programming & Open Source
 
 - 🔭 Currently building **Unity projects** and my **NixOS dotfiles**
 - 🌱 Learning **Unreal Engine 5** and **Nix**
-- 👯 Looking to collaborate on **Open Source**
+- 👯 Looking to collaborate on **Game Projects**
 - 🤝 Looking for help with **Unreal Engine 5**
 - 💬 Ask me about **Game Development, Linux, or NixOS**
 - 🎮 Projects: https://embdev.itch.io
